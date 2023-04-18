@@ -1,0 +1,79 @@
+#navBrand
+{
+   font-size: 25px;
+   text-align:center;
+}
+
+.btn-primary
+{
+   border: none;
+   background-color: #4891FF;
+   box-shadow: 0px 3px 6px 0px #C2C4C6;
+
+}
+.btn-primary:hover
+{
+   border: none;
+   background-color: #477BCB;
+   box-shadow: 0px 0px 0px 0px #FFFFFF;
+
+}
+
+.btn-outline-secondary
+{
+   color: #316CC4;
+   border: none;
+   background-color: #EBF3FF;
+   box-shadow: 0px 3px 6px 0px #C2C4C6;
+}
+.btn-outline-secondary:hover
+{
+   color: #316CC4;
+   border: none;
+   background-color: #A0B8DB;
+   box-shadow: 0px 0px 0px 0px #FFFFFF;
+}
+.accordion-item
+{
+   border: none;
+}
+.accordion-header .accordion-button 
+{
+   font-weight: bold;
+   font-size: 18pt;
+   background-color: #FFFFFF;
+   border: none;
+   color: #212529;
+}
+
+#mybutton
+{
+   padding: 10px;
+
+}
+
+#TMblue
+{
+   color: #4891FF;
+}
+
+#DMpurple
+{
+   color: #9385DE;
+}
+
+
+#MMyellow
+{
+   color: #EDB85E;
+}
+
+#AMteal
+{
+   color: #76D6C3;
+}
+
+
+
+
+
