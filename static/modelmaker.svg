@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="223" height="56" viewBox="0 0 223 56">
+  <g id="Group_14" data-name="Group 14" transform="translate(-591 -2088)">
+    <text id="ModelMaker" transform="translate(651 2127)" fill="#212936" font-size="28" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">ModelMaker</tspan></text>
+    <g id="Group_8" data-name="Group 8">
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="28" cy="28" r="28" transform="translate(591 2088)" fill="#edb85e"/>
+      <path id="Icon_ionic-ios-flask" data-name="Icon ionic-ios-flask" d="M26.936,21.788,19.922,10.1a.222.222,0,0,1-.036-.126V5.3a.241.241,0,0,1,.24-.24.723.723,0,0,0,.721-.721V4.1a.723.723,0,0,0-.721-.721H11.936a.723.723,0,0,0-.721.721v.24a.723.723,0,0,0,.721.721.241.241,0,0,1,.24.24V9.98a.217.217,0,0,1-.036.12L5.2,21.788a5.579,5.579,0,0,0-.727,2.74A3.865,3.865,0,0,0,8.39,28.375H23.811a3.761,3.761,0,0,0,3.8-3.846A5.563,5.563,0,0,0,26.936,21.788ZM10.373,17.8a.482.482,0,0,1-.415-.727l3.636-6.112a1.938,1.938,0,0,0,.27-.98V5.3c0-.084-.006-.162-.012-.24h4.369a1.571,1.571,0,0,0-.012.24V9.98a1.891,1.891,0,0,0,.276.986l3.63,6.106a.482.482,0,0,1-.415.727Z" transform="translate(602.96 2100.125)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

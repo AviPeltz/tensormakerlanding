@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="225" height="60" viewBox="0 0 225 60">
+  <g id="Group_46" data-name="Group 46" transform="translate(-1093 -685)">
+    <g id="Rectangle_106" data-name="Rectangle 106" transform="translate(1093 685)" fill="#fff" stroke="#212936" stroke-width="2" stroke-dasharray="10 5" opacity="0.6">
+      <rect width="225" height="60" rx="15" stroke="none"/>
+      <rect x="1" y="1" width="223" height="58" rx="14" fill="none"/>
+    </g>
+    <text id="Monitor" transform="translate(1178 725.631)" fill="#212936" font-size="25" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">Monitor</tspan></text>
+    <path id="Icon_awesome-stethoscope" data-name="Icon awesome-stethoscope" d="M26.2,6.563a3.749,3.749,0,0,0-1.816,7v6.6a6.349,6.349,0,0,1-6.562,6.094,6.378,6.378,0,0,1-6.557-5.812A9.4,9.4,0,0,0,18.75,11.25V2.145A1.405,1.405,0,0,0,17.619.768L13.934.03a1.4,1.4,0,0,0-1.652,1.1l-.187.92A1.4,1.4,0,0,0,13.2,3.7l1.8.357v7.113a5.625,5.625,0,1,1-11.25.07V4.067l1.8-.357a1.4,1.4,0,0,0,1.1-1.652l-.182-.92A1.4,1.4,0,0,0,4.811.035L1.131.762A1.412,1.412,0,0,0,0,2.145V11.25a9.389,9.389,0,0,0,7.506,9.188A10.11,10.11,0,0,0,17.813,30a10.1,10.1,0,0,0,10.313-9.844v-6.6a3.749,3.749,0,0,0-1.928-7Zm.053,4.687a.938.938,0,1,1,.938-.937A.94.94,0,0,1,26.25,11.25Z" transform="translate(1142 701.13)" fill="#212936"/>
+  </g>
+</svg>

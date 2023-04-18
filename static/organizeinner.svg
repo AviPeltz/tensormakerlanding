@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151.5" height="33.5" viewBox="0 0 151.5 33.5">
+  <g id="Group_42" data-name="Group 42" transform="translate(-86.5 -699)">
+    <text id="Organize" transform="translate(132 723)" fill="#212936" font-size="25" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">Organize</tspan></text>
+    <g id="Icon_feather-database" data-name="Icon feather-database" transform="translate(83.5 698)">
+      <path id="Path_15" data-name="Path 15" d="M31.5,7.5C31.5,9.985,25.456,12,18,12S4.5,9.985,4.5,7.5,10.544,3,18,3,31.5,5.015,31.5,7.5Z" fill="none" stroke="#212936" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_16" data-name="Path 16" d="M31.5,18c0,2.49-6,4.5-13.5,4.5S4.5,20.49,4.5,18" fill="none" stroke="#212936" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_17" data-name="Path 17" d="M4.5,7.5v21c0,2.49,6,4.5,13.5,4.5s13.5-2.01,13.5-4.5V7.5" fill="none" stroke="#212936" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

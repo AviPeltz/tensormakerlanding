@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="56" viewBox="0 0 195 56">
+  <g id="Group_51" data-name="Group 51" transform="translate(-68.499 -2725)">
+    <text id="AppMaker" transform="translate(128.499 2762)" fill="#212936" font-size="28" font-family="'\.AppleSystemUIFont'" font-weight="700"><tspan x="0" y="0">AppMaker</tspan></text>
+    <g id="Group_9" data-name="Group 9" transform="translate(-819.501 637)">
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="28" cy="28" r="28" transform="translate(888 2088)" fill="#76d6c3"/>
+      <path id="Icon_material-apps" data-name="Icon material-apps" d="M6,12h6V6H6Zm9,18h6V24H15ZM6,30h6V24H6Zm0-9h6V15H6Zm9,0h6V15H15ZM24,6v6h6V6Zm-9,6h6V6H15Zm9,9h6V15H24Zm0,9h6V24H24Z" transform="translate(898 2098)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
