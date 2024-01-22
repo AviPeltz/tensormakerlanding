@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.tensormaker.com/</loc>
+        <lastmod>2023-01-22</lastmod>
+    </url>
+    <url>
+        <loc>https://www.tensormaker.com/index.html</loc>
+        <lastmod>2023-01-22</lastmod>
+    </url>
+    <!-- Join the waitlist page -->
+    <url>
+        <loc>https://www.tensormaker.com/waitlist.html</loc> 
+        <lastmod>2023-01-22</lastmod>
+    </url>
+
+    <!-- CSS files -->
+    <url>
+        <loc>http://www.tensormaker.com/styles.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://www.tensormaker.com/waitlist.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
